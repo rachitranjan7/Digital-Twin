@@ -55,18 +55,18 @@ This project is optimized to run in **Google Colab** with zero local setup requi
 📈 Results
 The digital twin accurately models the trajectory of highly variable genes. Below is the simulation output comparing the actual physiological progression (solid lines) to the digital twin's forecasted progression (dashed lines) across 11 human subjects.
 
-(Place your final 3x4 grid image in the repository and link it below)
+
 
 🛠️ Built With
-PyTorch - Neural Network Framework
+- PyTorch - Neural Network Framework
 
-Scikit-Learn - Data scaling and statistical feature selection
+- Scikit-Learn - Data scaling and statistical feature selection
 
-GEOparse - NCBI GEO Database interfacing
+- GEOparse - NCBI GEO Database interfacing
 
-Pandas & NumPy - Data engineering and tensor prep
+- Pandas & NumPy - Data engineering and tensor prep
 
-Seaborn & Matplotlib - Visualization
+- Seaborn & Matplotlib - Visualization
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
