@@ -58,16 +58,18 @@ The digital twin accurately models the trajectory of highly variable genes. Belo
 
 ![Simulation Results](docs/simulation_results.png)
 
-🛠️ Built With
-- PyTorch - Neural Network Framework
+## 🛠️ Built With
 
-- Scikit-Learn - Data scaling and statistical feature selection
+- [PyTorch](https://pytorch.org/) — Neural network framework for deep learning  
+- [Scikit-learn](https://scikit-learn.org/) — Data preprocessing and feature selection  
+- [GEOparse](https://geoparse.readthedocs.io/) — Interface for NCBI GEO datasets  
+- [Pandas](https://pandas.pydata.org/) & [NumPy](https://numpy.org/) — Data manipulation and numerical computation  
+- [Seaborn](https://seaborn.pydata.org/) & [Matplotlib](https://matplotlib.org/) — Data visualization  
 
-- GEOparse - NCBI GEO Database interfacing
+---
 
-- Pandas & NumPy - Data engineering and tensor prep
+## 📄 License
 
-- Seaborn & Matplotlib - Visualization
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
