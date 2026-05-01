@@ -48,7 +48,7 @@ This project is optimized to run in **Google Colab** with zero local setup requi
    cd Digital-Twin
    ```
    
-2. **Open the notebook:** Open Digital_Twin_cfRNA.ipynb in Google Colab or Jupyter.
+2. **Open the notebook:** Open DT_VF.ipynb in Google Colab or Jupyter.
 
 3. **Install dependencies:** Run the first cell to install the required libraries:
     ```bash
