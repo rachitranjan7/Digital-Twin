@@ -45,9 +45,7 @@ This project is optimized to run in **Google Colab** with zero local setup requi
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YourUsername/cfRNA-Digital-Twin.git](https://github.com/YourUsername/cfRNA-Digital-Twin.git)
-   cd cfRNA-Digital-Twin
-
+   git clone [https://github.com/rachitranjan7/Digital-Twin/blob/main/DT_VF.ipynb
 2. Open the Digital_Twin_cfRNA.ipynb notebook in Google Colab or Jupyter.
 
 3. Run the first cell to install the required dependencies:
