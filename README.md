@@ -48,3 +48,27 @@ This project is optimized to run in **Google Colab** with zero local setup requi
    git clone [https://github.com/YourUsername/cfRNA-Digital-Twin.git](https://github.com/YourUsername/cfRNA-Digital-Twin.git)
    cd cfRNA-Digital-Twin
 
+2. Open the Digital_Twin_cfRNA.ipynb notebook in Google Colab or Jupyter.
+
+3. Run the first cell to install the required dependencies:
+   !pip install GEOparse scikit-learn pandas numpy matplotlib seaborn torch
+4. Execute the cells sequentially. The script will automatically download the GSE56899 dataset, process the data, and train the model.
+
+📈 Results
+The digital twin accurately models the trajectory of highly variable genes. Below is the simulation output comparing the actual physiological progression (solid lines) to the digital twin's forecasted progression (dashed lines) across 11 human subjects.
+
+(Place your final 3x4 grid image in the repository and link it below)
+
+🛠️ Built With
+PyTorch - Neural Network Framework
+
+Scikit-Learn - Data scaling and statistical feature selection
+
+GEOparse - NCBI GEO Database interfacing
+
+Pandas & NumPy - Data engineering and tensor prep
+
+Seaborn & Matplotlib - Visualization
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
