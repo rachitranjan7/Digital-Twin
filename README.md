@@ -45,13 +45,14 @@ This project is optimized to run in **Google Colab** with zero local setup requi
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/rachitranjan7/Digital-Twin/blob/main/DT_VF.ipynb](https://github.com/rachitranjan7/Digital-Twin/blob/main/DT_VF.ipynb)
-   cd cfRNA-Digital-Twin
+   git clone [https://github.com/rachitranjan7/Digital-Twin.git](https://github.com/rachitranjan7/Digital-Twin.git)
+   cd Digital-Twin
 2. Open the Digital_Twin_cfRNA.ipynb notebook in Google Colab or Jupyter.
 
 3. Run the first cell to install the required dependencies:
    !pip install GEOparse scikit-learn pandas numpy matplotlib seaborn torch
-4. Execute the cells sequentially. The script will automatically download the GSE56899 dataset, process the data, and train the model.
+   
+5. Execute the cells sequentially. The script will automatically download the GSE56899 dataset, process the data, and train the model.
 
 ## 📈 Results
 The digital twin accurately models the trajectory of highly variable genes. Below is the simulation output comparing the actual physiological progression (solid lines) to the digital twin's forecasted progression (dashed lines) across 11 human subjects.
