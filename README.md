@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 # Digital-Twin
 # Phenotypic Digital Twin Simulator 🧬
 
