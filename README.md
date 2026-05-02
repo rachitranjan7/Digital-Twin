@@ -58,7 +58,7 @@ This project is optimized to run in **Google Colab** with zero local setup requi
 4. **Run the pipeline:** Execute the cells sequentially. The script will automatically download the GSE56899 dataset, process the data, and train the model.
 
 ## 📈 Results
-The digital twin accurately models the trajectory of highly variable genes. Below is the simulation output comparing the actual physiological progression (solid lines) to the digital twin's forecasted progression (dashed lines) across 11 human subjects.
+The digital twin accurately models the trajectory of highly variable genes. Below is the simulation output comparing the actual physiological progression (solid lines) to the digital twin's forecasted progression (dashed lines) across 12 human subjects.
 
 ![Simulation Results](docs/simulation_results.png)
 
